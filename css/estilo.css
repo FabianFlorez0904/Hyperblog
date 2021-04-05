@@ -3,13 +3,28 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+#cabecera{
+    background-color: #33A;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow:  0px 0px 20px 0px rgba(0,0,0,0.75)
+}
+#cabecera #tagline {
+    padding-left: 18px ;
+    font-size: 12px;
+}
 #container {
     margin: 0 auto;
     width: 70%;
-    padding: 1rem;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
 }
 #container h1 {
     font-size: 20px;
+}
+#post {
+    padding: 1em;
 }
