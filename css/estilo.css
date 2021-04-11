@@ -55,3 +55,10 @@ body{
 .cita {
     margin-top: 1rem;
 }
+footer {
+    margin: 0 auto;
+    padding: .3rem;
+    width: 70%;
+    color:white;    
+    background-color: rgb(65, 65, 216);
+}
