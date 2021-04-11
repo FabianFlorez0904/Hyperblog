@@ -28,3 +28,10 @@ body{
 #post {
     padding: 1em;
 }
+footer {
+    margin: 0 auto;
+    padding: .3rem;
+    width: 70%;
+    color:white;    
+    background-color: rgb(65, 65, 216);
+}
