@@ -3,7 +3,7 @@ Un blog increible del [CursoProfesional Git y Github](http://platzi.com/clases/g
 
 > En este curso aprendi cosas fundamentales que a los 2.5 años que llevo en la carrera nadie me habia enseñado.
 > - Fabian Florez, 2021
-
+* incluye ejemplos
 
 * Creado por Fabian 
 **Amo los gatitos asi que aqui una foto de uno hermoso.**
